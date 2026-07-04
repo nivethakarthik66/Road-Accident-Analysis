@@ -1,32 +1,34 @@
-📌 Project Overview
-This project presents an interactive Road Accident Analysis Dashboard developed using Microsoft Power BI. The dashboard analyzes road accident data to identify trends, monitor casualty statistics, and provide insights into factors contributing to road accidents.
+##  Project Overview
+This project presents an interactive Road Accident Analysis Dashboard created using Tableau. The dashboard transforms raw accident data into meaningful insights, helping users analyze accident trends, casualty statistics, road conditions, and vehicle involvement through interactive visualizations.
 
 ## 🎯 Objectives
-- Analyze accident trends over time.
-- Monitor total accidents and casualties.
+- Analyze road accident trends over time.
+- Monitor accident and casualty statistics.
 - Identify high-risk road types and locations.
-- Compare accident severity and vehicle types.
-- Support data-driven decision-making through interactive visualizations.
+- Compare accident severity and vehicle categories.
+- Support data-driven decision-making through interactive dashboards.
 
 ## 🛠️ Tools & Technologies
-- Microsoft Power BI
-- Power Query
-- DAX (Data Analysis Expressions)
+- Tableau
 - Microsoft Excel / CSV
+- Data Cleaning
+- Data Visualization
 
 ## 📊 Dashboard Features
-- KPI cards for Total Accidents, Casualties, Fatal, Serious, and Slight Injuries
+- Interactive dashboard with filters and parameters
+- KPI cards for Total Accidents and Casualties
 - Monthly and yearly accident trend analysis
-- Vehicle type analysis
+- Accident severity analysis
+- Vehicle type distribution
 - Road type and road surface analysis
 - Urban vs. Rural accident comparison
-- Day vs. Night accident analysis
-- Interactive slicers and filters
+- Location-based insights using maps
 
 ## 📈 Skills Demonstrated
-- Data Cleaning & Transformation
-- Data Modeling
-- DAX Measures
 - Data Visualization
 - Dashboard Design
-- Business Intelligence Reporting
+- Data Analysis
+- Trend Analysis
+- Business Intelligence
+- Storytelling with Data
+
